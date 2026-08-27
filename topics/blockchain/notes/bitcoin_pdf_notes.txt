@@ -1,0 +1,27 @@
+?? What is the double-spend problem?
+--> It might be like doing two times paying?
+--> Transaction of a data between start and stop point?
+++> It is copying of autharization and coin procces!
+
+** We providing to avoid double-spending to avoid third-party trust-based transaction way.
+
+?? So, why we don't care other transaction rather than past and current?
+
+
+2. Transaction: Last sentences didn't understand as well
+
+3. How should I prove that transaction happened? (Proof-of-Work)
+Proof-of-Work --related--> effort of CPU
+
+?? "Nonce" Why we need to use nonce value?
+--> Uniqueness 
+--> Less Fail
+--> Preventing Reply Attacks
+--> Proof-of-Work Verifaction
+
+?? Why hashing mechanism need bloock header instead of entire block?
+--> Efficiency
+--> Merkle Tree Integrity
+--> Lightweight Verification
+
+?? Why we need Digital Signature?
