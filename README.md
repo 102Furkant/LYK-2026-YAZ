@@ -53,9 +53,9 @@ LYK-2026-YAZ/
     │   ├── simulations/        # simülasyonlar, notebook'lar
     │   ├── examples/           # örnek kodlar
     │   └── books/              # e-kitaplar, makaleler
-    ├── sayisal-kriptoloji/     # aynı alt klasörler
-    ├── blockchain/             # aynı alt klasörler
-    └── astroloji/              # aynı alt klasörler
+    ├── cryptography/            # aynı alt klasörler
+    ├── blockchain/              # aynı alt klasörler
+    └── astronomy/               # aynı alt klasörler
 ```
 
 Her konu klasörü **aynı altı alt klasörü** içerir — bir konuda nasıl
@@ -75,9 +75,9 @@ gömülmesindense burada durması iyidir; sonradan yeri belli olursa taşırız.
 
 | Konu | Klasör |
 |---|---|
-| Sayısal Kriptoloji | [`topics/sayisal-kriptoloji/`](topics/sayisal-kriptoloji/) |
+| Kriptografi | [`topics/cryptography/`](topics/cryptography/) |
 | Blockchain | [`topics/blockchain/`](topics/blockchain/) |
-| Astroloji | [`topics/astroloji/`](topics/astroloji/) |
+| Astronomi | [`topics/astronomy/`](topics/astronomy/) |
 
 ### Nasıl yüklerim?
 
@@ -151,9 +151,9 @@ LYK-2026-YAZ/
     │   ├── simulations/        # simulations, notebooks
     │   ├── examples/           # example code
     │   └── books/              # e-books, papers
-    ├── sayisal-kriptoloji/     # same subfolders
-    ├── blockchain/             # same subfolders
-    └── astroloji/              # same subfolders
+    ├── cryptography/            # same subfolders
+    ├── blockchain/              # same subfolders
+    └── astronomy/               # same subfolders
 ```
 
 Every topic folder has **the same six subfolders** — learn one topic and you
@@ -173,9 +173,9 @@ the wrong topic; we can move it once its place is clear.
 
 | Topic | Folder |
 |---|---|
-| Digital Cryptology | [`topics/sayisal-kriptoloji/`](topics/sayisal-kriptoloji/) |
+| Cryptography | [`topics/cryptography/`](topics/cryptography/) |
 | Blockchain | [`topics/blockchain/`](topics/blockchain/) |
-| Astrology | [`topics/astroloji/`](topics/astroloji/) |
+| Astronomy | [`topics/astronomy/`](topics/astronomy/) |
 
 ### How do I upload?
 

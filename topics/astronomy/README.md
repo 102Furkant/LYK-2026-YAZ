@@ -1,7 +1,7 @@
-# Astroloji / Astrology
+# Astronomi / Astronomy
 
-**TR:** Burçlar, gök cisimlerinin konumları ve yorumlama yöntemleri.
-**EN:** Zodiac signs, positions of celestial bodies, and interpretation methods.
+**TR:** Gök cisimleri, gözlem yöntemleri ve evrenin yapısı.
+**EN:** Celestial bodies, observation methods, and the structure of the universe.
 
 ## Ne nereye? / What goes where?
 

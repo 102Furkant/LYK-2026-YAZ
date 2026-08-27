@@ -1,4 +1,4 @@
-# Sayısal Kriptoloji / Digital Cryptology
+# Kriptografi / Cryptography
 
 **TR:** Sayısal şifreleme yöntemleri, simetrik ve açık anahtarlı kriptografi, hash fonksiyonları ve kriptanaliz.
 **EN:** Digital encryption methods, symmetric and public-key cryptography, hash functions and cryptanalysis.
